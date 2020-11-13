@@ -1,0 +1,36 @@
+body{
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+}
+.about{
+    display: inline-block;
+    border: 1px solid black;
+    height: 310px;
+    width: 300px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+img{
+    height: 70%;
+}
+#heading{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: dodgerblue;                                         
+}
+.about :hover{
+    color: tomato;
+    
+}
+
+p{
+    text-decoration: none;
+    color: rgb(150, 187, 243);
+}
+p:hover{
+    text-decoration: none;
+    color: rgb(150, 243, 204);
+}
