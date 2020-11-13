@@ -1,0 +1,28 @@
+body{
+	/* font-family: 'Roboto', sans-serif; */
+	/* overflow: hidden;  */
+	/* background-image: 
+	url("https://images.unsplash.com/photo-1559825481-12a05cc00344?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"); */
+	/* background-repeat: no-repeat; */
+	height: 100vh;
+	width: 98vw;
+	background-size: 100% 110%;
+	
+}
+
+#donate{
+	background-color: #1f8dcc;
+	color: white;
+	position: absolute;
+    left: 25%;
+    top: 100%;
+	border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 5px 5px rgb(84, 214, 67);
+}
