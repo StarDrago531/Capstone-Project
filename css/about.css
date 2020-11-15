@@ -1,0 +1,40 @@
+body{
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+    
+}
+#content{
+    position: relative;
+	left: 50%;
+	width : 10%;	
+}
+#img{
+    height: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: dodgerblue;                                         
+}
+a:hover{
+    text-decoration: none;
+    color: tomato;
+}
+
+h2:hover{
+    text-decoration: none;
+    color: darkblue;
+}
+
+p{
+    text-decoration: none;
+    color: rgb(150, 187, 243);
+}
+p:hover{
+    text-decoration: none;
+    color: rgb(135, 219, 170);
+}
+
+
+
+
